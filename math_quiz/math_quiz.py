@@ -30,13 +30,10 @@ def math_operation(first_num, second_num, operator):
 def math_quiz():
     score = 0
     total_questions = 5
-
     print("Welcome to the Math Quiz Game!")
     print("You will be presented with math problems, and you need to provide the correct answers.")
-
     for _ in range(total_questions):
         first_num = random_number(1, 10); second_num = random_number(1, 5); operator = random_operator()
-
         PROBLEM, ANSWER = math_operation(first_num, second_num, operator)
         print(f"\nQuestion: {PROBLEM}")
         useranswer = input("Your answer: ")
@@ -49,7 +46,6 @@ def math_quiz():
             score += 1
         else:
             print(f"Wrong answer. The correct answer is {ANSWER}.")
-
     print(f"\nGame over! Your score is: {score}/{total_questions}")
 
 if __name__ == "__main__":
