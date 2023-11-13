@@ -43,7 +43,7 @@ def math_quiz():
         try :
             useranswer = int(useranswer)
         except:
-            print(f"invalid_input : please enter an integer")
+            print(f"\n invalid_input : please enter an integer")
         if useranswer == ANSWER:
             print("Correct! You earned a point.")
             score += 1
