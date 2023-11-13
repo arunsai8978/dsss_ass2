@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6f4797c-0148-4ae9-9c61-e1c95042374d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/math_quiz/math_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_quiz/math_quiz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math_quiz/tests_math_quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_quiz/tests_math_quiz.py" afterDir="false" />
-    </list>
+    <list default="true" id="a6f4797c-0148-4ae9-9c61-e1c95042374d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +110,7 @@
       <workItem from="1699819659747" duration="1184000" />
       <workItem from="1699876328347" duration="3419000" />
       <workItem from="1699881362262" duration="51000" />
-      <workItem from="1699905163180" duration="2688000" />
+      <workItem from="1699905163180" duration="3400000" />
     </task>
     <servers />
   </component>
